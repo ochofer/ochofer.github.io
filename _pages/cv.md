@@ -11,69 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Quantitative Political Science, University of Warwick, 2024 (expected)
-* M.Sc. in Business, Ca' Foscari University of Venice, 2020
-* B.Sc. in Business and Computer Science, Technical University of Munich (TUM), 2018
+* PhD in Politics and International Studies, University of Warwick, 2026
+  * Thesis on how online media environments and residential neighbourhoods shape political attitudes in the UK.
+  * Viva: 31 March 2026. Examiners: Prof. Peter Thisted Dinesen (University of Copenhagen) and Prof. Özlem Atikcan (University of Warwick). Outcome: pass with no corrections.
+  * Supervisors: Prof. Vincenzo Bove and Dr Andreas Murr.
+* MSc in Management, Ca' Foscari University of Venice, 2020
+  * 110/110 cum laude (GPA 29.5/30).
+* BSc in Business with Computer Science, Technical University of Munich (TUM), 2018
 
-Academic work experience
+Current position
 ======
-* 2023-Current: Post-doctoral Research Associate
-  * Queen Mary University of London (QMUL)
-  * Working with Prof Maria Grasso (QMUL), Prof Charles J Pattie (University of Sheffield), and Dr Laura Serra (LSE) on the ESRC funded project ["The impact of political humour on political attitudes and behaviours"](https://gtr.ukri.org/projects?ref=ES/R010242/2).
+* May 2024 – present: Postdoctoral Research Associate
+  * Queen Mary University of London
+  * Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/) on deliberative policy-making for sustainable food systems (PI: Prof. Maria Grasso). A seven-country, eleven-institution consortium.
+  * Consortium-wide coordination; ethics governance and central ethics-approval lead across partners; project planning documents (ethics, data management, communication, dissemination & exploitation); European Commission reporting; qualitative field research; policy briefs and outreach.
 
-* 2022-Current: Research Associate
-  * University of Warwick
-  * Working with Prof Vincenzo Bove (University of Warwick), Prof Georgios Efthyvoulou (University of Sheffield), and Dr Harry Pickard (Newcastle University) on the ESRC funded project ["The Effect of Terrorism on Public Attitudes and Individual Well-being in Great Britain"](https://sites.google.com/view/terror-attitudes-wellbeing/team).
-
-* 2021-2022: Senior Graduate Teaching Assistant
-  * University of Warwick
-  * Delivered seminars and computer classes for the undergraduate modules Introduction to Quantitative Political Analysis I and Introduction to Quantitative Political Analysis II.
-
-* 2019: Research Assistant
-  * Ca' Foscari University of Venice
-  * Working with Prof Stefano Micelli (Ca’ Foscari University ofVenice) on the project "Automation and AI in italian SMEs: a quantitative analysis", in partnerhsip with Banca IFIS.
-
-Other work experience
+Earlier academic experience
 ======
-* 2019: BCG UnlimITed Participant
-  * Boston Consulting Group
-  * Paris, France
-
-* 2017-2018: In-house Consulting
-  * AutoScout24
-  * Munich, Germany
-  
-* 2013-2014: CEO Assistant
-  * Vedag China
-  * Shanghai, China
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Oct 2023 – Apr 2024: Research Associate
+  * Queen Mary University of London
+  * ESRC project "The Impact of Political Humour on Political Attitudes and Behaviours" (PI: Prof. Maria Grasso). Co-designed one survey and three pre-registered survey experiments, from ethics application to fielding and analysis.
+* Jul – Dec 2022: Research Associate (UK Home Office advisory)
+  * University of
