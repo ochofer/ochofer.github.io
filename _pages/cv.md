@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/Hofer_Academic_CV.pdf){: .btn .btn--info}
+
 Education
 ======
 * PhD in Politics and International Studies, University of Warwick, 2026
