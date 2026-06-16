@@ -10,9 +10,9 @@ redirect_from:
 
 ## About
 
-Carlo Hofer is a quantitative political scientist and Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"} on deliberative policy-making for sustainable food systems — a seven-country, eleven-institution consortium running 2024–2027. He holds a PhD in Politics and International Studies from the University of Warwick (2026), an MSc in Management from Ca' Foscari University of Venice, and a BSc in Business with Computer Science from the Technical University of Munich.
+Carlo Hofer is a quantitative political scientist and Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"} on deliberative policy-making for sustainable food systems, a seven-country, eleven-institution consortium running 2024–2027. He holds a PhD in Politics and International Studies from the University of Warwick (2026), an MSc in Management from Ca' Foscari University of Venice, and a BSc in Business with Computer Science from the Technical University of Munich.
 
-His research examines how the structures that surround people — online information environments on one hand, residential neighbourhoods on the other — condition political attitudes during periods of democratic stress. He works with causal-inference designs applied to panel data and survey experiments, complemented by geospatial analysis at fine spatial scales.
+His research examines how the structures that surround people - online information environments on one hand, residential neighbourhoods on the other - condition political attitudes during periods of democratic stress. He works with causal-inference designs applied to panel data and survey experiments, complemented by geospatial analysis at fine spatial scales.
 
 ## Doctoral research
 
