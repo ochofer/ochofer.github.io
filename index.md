@@ -1,48 +1,31 @@
 ---
-title: Personal Profile
+permalink: /
+title: "Carlo Hofer"
+excerpt: "Quantitative political scientist. Postdoctoral Research Associate at Queen Mary University of London."
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-## Academic Background
+## About
 
-Carlo Hofer is a final-year PhD candidate in quantitative political science at the University of Warwick, and a post-doctoral research associate at QMUL. Carlo holds an MSc from the University of Venice as well as a BSc in Business and Computer Science from the Technical University of Munich (TUM).
+Carlo Hofer is a quantitative political scientist and Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/) on deliberative policy-making for sustainable food systems — a seven-country, eleven-institution consortium running 2024–2027. He holds a PhD in Politics and International Studies from the University of Warwick (2026), an MSc in Management from Ca' Foscari University of Venice, and a BSc in Business with Computer Science from the Technical University of Munich.
 
-## Dissertation
+His research examines how the structures that surround people — online information environments on one hand, residential neighbourhoods on the other — condition political attitudes during periods of democratic stress. He works with causal-inference designs applied to panel data and survey experiments, complemented by geospatial analysis at fine spatial scales.
 
-**Working title:** “Contextual effects: how changes in the neighbourhood affect individual behaviour”.
-Carlo Hofer's thesis explores the relationship between neighbourhood characteristics and individual behaviour through a series of quasi-experimental studies. Carlo leverages newly released localised micro data on individual attitudes and behaviour to investigate a series of natural experiments. Carlo shows how treated subjects react to different types of shocks in their neighbourhood.
-Carlo's dissertation is supervised by [Prof Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove) and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr).
+## Doctoral research
 
-## Research Interests
+Carlo's PhD, supervised by [Prof. Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove) and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr), examined how online media environments and residential neighbourhoods shape political attitudes in the UK. Drawing on eleven waves of the British Election Study Internet Panel (over 100,000 observations), it combines within-person fixed-effects models, an instrumental-variables design, cross-lagged panel models, and fine-grained measures of neighbourhood segregation. The viva was held on 31 March 2026, with Prof. Peter Thisted Dinesen (University of Copenhagen) and Prof. Özlem Atikcan (University of Warwick) as examiners; the outcome was a pass with no corrections.
 
-- Contextual effects
-- Affective polarisation
-- Internet and social media
-- Climate change
-- Segregation and attitudes towards immigration
-- Terrorism
+## Research interests
 
-## Research Agenda
+Affective polarisation · Immigration attitudes · Media exposure and political behaviour · Residential segregation and contextual effects · Deliberative democracy · Causal inference with panel data · Survey experiments · Geospatial methods · Climate change attitudes · Political humour
 
-### Working Papers
-- Good neighbours: Exposure to diversity in the neighbourhood improves attitudes towards immigration. (Bartik IV)
-- Downloading polarisation: Consuming political content online increases affective polarisation. (2SLS)
-- Ecological and economic cost of terror: The impact of terrorist attacks on commuting patterns. (Natural experiment)
+## Current research
 
-### Planned
-- When does the pie stop growing? Decreasing marginal returns of broadband performance on internet consumption.
-- Which terrorist attacks attract more media attention and why? (ML Random forest)
-- Housing prices and economic voting: How the cost of living crisis splits constituencies based on home ownership.
-- Contextual effects of climate change on affective polarisation.
-- The sociotropic spillover of the Chinese import shock.
+- **DEMETRA (Horizon Europe).** Comparative study of deliberative participatory processes on sustainable food systems across seven European countries, with responsibilities spanning consortium-wide coordination, the project's ethics governance, qualitative field research, and policy briefs for European, national, and local audiences.
+- **From the PhD.** Two papers in preparation: one on online information consumption and political affective polarisation, and one on neighbourhood segregation and immigration attitudes.
+- **Political humour (ESRC).** A series of co-authored projects on humorous political communication — climate change attitudes, intergroup affective polarisation, and intergenerational hostility.
 
-## Affiliations and Activities
-- Research associate | TBA
-- Research associate | [Terror - Attitudes - Wellbeing](https://sites.google.com/view/terror-attitudes-wellbeing/team) ESRC funded project
-- Senior Graduate Teaching Assistant | Introduction to Quantitative political analysis I & II
-- Co-Founder and Co-Chair (2022) | Inter-disciplinary 'Quantitative Solutions & Networking Series' on advanced quantitative methods.
-- Co-Chair (2021-2022) | Departmental 'Critical Research and International Political Studies' (CRIPS) graduate working group.
-
-## Awards and Scholarships
-- Departmental Scholarship offered by the Department of Politics and International Studies.
-- Funded visiting PhD position (2022) at the University of Gothenburg (EUTOPIA Doctoral Mobility Programme).
-- Monetary prize (EUR1000) for undergraduate dissertation with full grades (top 1% of cohort).
+For a full list of work, see [Publications](/publications/) and [CV](/cv/).
