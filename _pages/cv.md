@@ -15,8 +15,8 @@ Education
 ======
 * PhD in Politics and International Studies, University of Warwick, 2026
   * Thesis on how online media environments and residential neighbourhoods shape political attitudes in the UK.
-  * Viva: 31 March 2026. Examiners: Prof. Peter Thisted Dinesen (University of Copenhagen) and Prof. Özlem Atikcan (University of Warwick). Outcome: pass with no corrections.
-  * Supervisors: Prof. Vincenzo Bove and Dr Andreas Murr.
+  * Viva: 31 March 2026. Examiners: [Prof. Peter Thisted Dinesen](https://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/309060){: target="_blank"} (University of Copenhagen) and [Prof. Özlem Atikcan](https://warwick.ac.uk/fac/soc/pais/people/atikcan/){: target="_blank"} (University of Warwick). Outcome: pass with no corrections.
+  * Supervisors: [Prof. Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove){: target="_blank"} and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr){: target="_blank"}.
 * MSc in Management, Ca' Foscari University of Venice, 2020
   * 110/110 cum laude (GPA 29.5/30).
 * BSc in Business with Computer Science, Technical University of Munich (TUM), 2018
@@ -25,7 +25,7 @@ Current position
 ======
 * May 2024 – present: Postdoctoral Research Associate
   * Queen Mary University of London
-  * Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/) on deliberative policy-making for sustainable food systems (PI: Prof. Maria Grasso). A seven-country, eleven-institution consortium.
+  * Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"} on deliberative policy-making for sustainable food systems (PI: Prof. Maria Grasso). A seven-country, eleven-institution consortium.
   * Consortium-wide coordination; ethics governance and central ethics-approval lead across partners; project planning documents (ethics, data management, communication, dissemination & exploitation); European Commission reporting; qualitative field research; policy briefs and outreach.
 
 Earlier academic experience
