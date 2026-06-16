@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Carlo Hofer"
-excerpt: "About me"
+excerpt: "Quantitative political scientist. Postdoctoral Research Associate at Queen Mary University of London."
 author_profile: true
 redirect_from: 
   - /about/
