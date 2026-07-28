@@ -15,6 +15,14 @@ author_profile: true
 {% endfor %}
 {% endif %}
 
+{% assign thesis = site.publications | where: "category", "thesis" | sort: "date" | reverse %}
+{% if thesis.size > 0 %}
+## PhD thesis
+{% for post in thesis %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
 {% assign wps = site.publications | where: "category", "working-papers" | sort: "date" | reverse %}
 {% if wps.size > 0 %}
 ## Working papers
