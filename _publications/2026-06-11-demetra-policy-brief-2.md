@@ -1,11 +1,16 @@
 ---
-title: "DEMETRA Policy Brief No. 2"
+title: "Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems"
 collection: publications
 category: policy-briefs
 permalink: /publication/demetra-policy-brief-2
-excerpt: 'Policy brief from the Horizon Europe DEMETRA project on deliberative policy-making for sustainable food systems.'
-date: 2026-06-11
-venue: 'DEMETRA project (Horizon Europe) — resubmitted June 2026'
-citation: 'Co-developed with the DEMETRA consortium (2026). "DEMETRA Policy Brief No. 2." Horizon Europe DEMETRA project.'
+excerpt: 'Five priority actions for turning temporary urban food initiatives into durable governance, based on 120 policymaker interviews across seven European cities.'
+date: 2026-07-27
+venue: 'DEMETRA (Horizon Europe), Policy Brief No. 2'
+paperurl: 'https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No2.pdf'
+citation: 'Hofer, C. (2026). Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems. DEMETRA Policy Brief No. 2. Horizon Europe DEMETRA project (Grant Agreement No. 101132286).'
 ---
-Co-developed with the DEMETRA consortium. Addressed to European Commission stakeholders, national and local policymakers, municipalities, and practitioners.
+Sole-authored policy brief for the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}, addressed to city policymakers, food administrators, and community practitioners.
+
+The brief explains why promising urban food initiatives stay fragile (responsibility for food policy is dispersed and informal, funding runs in short pilot cycles, and momentum is lost when political leadership changes) and sets out five priority actions for building durable participatory governance. It draws on a comparative analysis of how food policy is actually made in seven European cities, based on 120 interviews with policymakers.
+
+[Read on the DEMETRA site](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No2.pdf){: target="_blank"} · [Download PDF](/files/DEMETRA-Policy-Brief-2-Hofer.pdf){: target="_blank"}
