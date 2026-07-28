@@ -26,6 +26,6 @@ Affective polarisation · Immigration attitudes · Media exposure and political 
 
 - **DEMETRA (Horizon Europe).** Comparative study of deliberative participatory processes on sustainable food systems across seven European countries, with responsibilities spanning consortium-wide coordination, the project's ethics governance, qualitative field research, and the project's policy briefs. The first two, [Citizens as Partners in Food System Transformation](/publication/demetra-policy-brief-1) and [Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems](/publication/demetra-policy-brief-2), were published in 2026.
 - **From the PhD.** Two papers in preparation: one on online information consumption and political affective polarisation, and one on neighbourhood segregation and immigration attitudes.
-- **Political humour (ESRC).** A series of co-authored projects on humorous political communication — climate change attitudes, intergroup affective polarisation, and intergenerational hostility.
+- **Political humour (ESRC).** A series of co-authored projects on humorous political communication: climate change attitudes, intergroup affective polarisation, and intergenerational hostility.
 
 For a full list of work, see [Publications](/publications/) and [CV](/cv/).
