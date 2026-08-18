@@ -1,0 +1,16 @@
+{% include base_path %}
+{{ post.title }}
+{% if post.status or post.date %}
+{{ post.status }}{% if post.status and post.date %}, {% endif %}{% if post.date %}{{ post.date | date: "%B %Y" }}{% endif %}
+
+{% endif %} {% if post.excerpt %}
+{{ post.excerpt | markdownify }}
+
+{% endif %} {% if post.methods %}
+Methods: {{ post.methods }}
+
+{% endif %} {% if post.datasource %}
+Data: {{ post.datasource }}
+
+{% endif %}
+Write-up{% if post.codeurl %} · Code{% endif %}{% if post.reporturl %} · Full report (PDF){% endif %}
