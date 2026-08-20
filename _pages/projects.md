@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Alongside my academic research, I work on quantitative questions in financial markets. These are self-directed research exercises using public data, not a performance record. Each write-up states the question, the data, the method, and the result, including where the result was null, and links to the code so the analysis can be reproduced.
+Alongside my other academic research, I also work on quantitative questions in financial markets. These are self-directed research exercises using public data. Each write-up states the question, the data, the method, and the result, including where the result was null, and links to the code so the analysis can be reproduced.
 
 {% assign projects = site.projects | sort: "date" | reverse %}
 {% for post in projects %}
