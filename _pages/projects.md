@@ -3,6 +3,9 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+og_image: og-projects.png
+og_title: "Quantitative investment projects: public data, public code"
+description: "Self-directed quantitative research on public market data: factor decomposition, climate hazard exposure as an equity signal, and company valuation."
 ---
 
 {% include base_path %}
