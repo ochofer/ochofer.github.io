@@ -4,8 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 og_image: og-projects.png
-og_title: "Quantitative investment projects: public data, public code"
-description: "Self-directed quantitative research on public market data: climate hazard exposure as an equity signal, with the data layer already public."
+og_title: "Quantitative investment research: public data, public code"
+description: "Does physical climate risk show up in share prices? A live study on 302 listed companies, with the data layer already public and its code on GitHub."
 ---
 
 {% include base_path %}
@@ -21,7 +21,11 @@ Alongside my other academic research, I also work on quantitative questions in f
 
 One study is running. The write-up goes up here with its code when it is done.
 
-**Climate hazard exposure as an equity signal.** A firm-level physical-risk measure defined from asset-level ownership data, on the 302 companies with usable prices out of 328 ownership entities, to be tested with an event-study design around hazard events, with the cross-sectional test reported alongside it and with its minimum detectable effect. The method is a factor decomposition: returns are separated into exposures to known risk factors and a residual, so the question becomes whether hazard exposure carries anything those factors do not already explain. Survivorship bias and transaction costs are handled explicitly rather than assumed away, and the choice of estimation window is stated instead of tuned. The design is written as a pre-analysis plan and fixed before estimation, so the specification cannot drift towards a result. A well-documented null is a finding and will be published as one.
+**Climate risk as an equity signal.** Companies own physical things. Power stations, pipelines, mines, cement works. Those things sit in places, and places have weather. The question is whether investors price the risk that weather damages those assets or interrupts what they produce. If they do, companies with more exposed assets should earn different returns from companies with less exposed ones, once everything else known to move share prices has been controlled for.
+
+The hard part is not the question, it is the join. Three ingredients are needed and none of them connects to the others: which company owns which asset, what each company's shares did daily, and the known drivers of returns used as controls. The ownership data names companies by legal identifier, the price data is organised by ticker, and neither contains the other. So most of the work so far has been building that bridge and then trying to prove it wrong. 302 of 328 ownership entities resolve to a tradeable listing, covering 4,900 of 5,115 tracked assets. The price panel holds 1.1 million daily rows and passes 16 of 16 integrity checks.
+
+The test itself is still ahead. The method is a factor decomposition: returns are separated into exposures to known risk factors and a residual, so the question becomes whether hazard exposure carries anything those factors do not already explain. Survivorship bias and transaction costs are handled explicitly rather than assumed away, and the choice of estimation window is stated instead of tuned. The design is written as a pre-analysis plan and fixed before estimation, so the specification cannot drift towards a result. A well-documented null is a finding and will be published as one.
 
 **Revised 21 August 2026.** I computed the minimum detectable effect before running the test and found the cross-sectional design underpowered: it would need roughly a century of data to detect a plausible effect. So the primary design is now an event study, and the cross-sectional test is reported with its minimum detectable effect rather than quietly dropped. The revision is dated and the reasoning is in the repository. Changing a design because it cannot answer the question is the point of writing the plan down first; changing it because the answer was disappointing is what the plan exists to prevent.
 
