@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 og_image: og-projects.png
-og_title: "Quantitative investment research: public data, public code"
+og_title: "Quantitative investment projects: public data, public code"
 description: "Does physical climate risk show up in share prices? A live study on 302 listed companies, with the data layer already public and its code on GitHub."
 ---
 
