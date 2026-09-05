@@ -69,7 +69,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://www.linkedin.com/in/carlo-hofer"
+    - "https://github.com/ochofer"
+    - "https://orcid.org/0009-0007-4786-2731"
+    - "https://scholar.google.com/citations?user=7JGqdd8AAAAJ"
+    - "https://www.researchgate.net/profile/Carlo-Hofer"
 
 # Analytics
 analytics:
