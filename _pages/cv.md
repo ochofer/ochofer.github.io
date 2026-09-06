@@ -62,8 +62,8 @@ Publications and working papers
 * Lead author. "Ecological and economic cost of terror: The impact of terrorist attacks on London commuting patterns."
 
 **Policy briefs**
-* Sole author. "Citizens as Partners in Food System Transformation: Scaling Deliberative Democracy for Sustainable Food Systems." [DEMETRA Policy Brief No. 1](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No1.pdf){: target="_blank"}, Horizon Europe DEMETRA project, 2026.
-* Sole author. "Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems." [DEMETRA Policy Brief No. 2](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No2.pdf){: target="_blank"}, Horizon Europe DEMETRA project, 2026.
+* Sole author. "Citizens as Partners in Food System Transformation: Scaling Deliberative Democracy for Sustainable Food Systems." [DEMETRA Policy Brief No. 1](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No1.pdf){: target="_blank"}, Horizon Europe DEMETRA project, 2026. [https://doi.org/10.5281/zenodo.22541484](https://doi.org/10.5281/zenodo.22541484){: target="_blank"}
+* Sole author. "Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems." [DEMETRA Policy Brief No. 2](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No2.pdf){: target="_blank"}, Horizon Europe DEMETRA project, 2026. [https://doi.org/10.5281/zenodo.22541658](https://doi.org/10.5281/zenodo.22541658){: target="_blank"}
 
 **Data deposits**
 * Four datasets from the ESRC humour project deposited on the UK Data Service ReShare repository, listed with DOIs under [Publications](/publications/).
