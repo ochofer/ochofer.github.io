@@ -6,7 +6,7 @@ permalink: /publication/demetra-policy-brief-1
 excerpt: 'Six priority actions for embedding deliberative participatory processes in European food and sustainability policy.'
 date: 2026-07-28
 venue: 'DEMETRA (Horizon Europe), Policy Brief No. 1'
-paperurl: 'https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No1.pdf'
+paperurl: 'https://doi.org/10.5281/zenodo.22541484'
 citation: 'Hofer, C. (2026). Citizens as Partners in Food System Transformation: Scaling Deliberative Democracy for Sustainable Food Systems. DEMETRA Policy Brief No. 1. Horizon Europe DEMETRA project (Grant Agreement No. 101132286).'
 ---
 Sole-authored policy brief for the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}, addressed to policymakers, public administrations, and practitioners.
