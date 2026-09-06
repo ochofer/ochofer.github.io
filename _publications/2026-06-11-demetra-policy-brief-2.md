@@ -6,7 +6,7 @@ permalink: /publication/demetra-policy-brief-2
 excerpt: 'Five priority actions for turning temporary urban food initiatives into durable governance, based on 120 policymaker interviews across seven European cities.'
 date: 2026-07-27
 venue: 'DEMETRA (Horizon Europe), Policy Brief No. 2'
-paperurl: 'https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA-Policy-brief-No2.pdf'
+paperurl: 'https://doi.org/10.5281/zenodo.22541658'
 citation: 'Hofer, C. (2026). Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems. DEMETRA Policy Brief No. 2. Horizon Europe DEMETRA project (Grant Agreement No. 101132286).'
 ---
 Sole-authored policy brief for the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}, addressed to city policymakers, food administrators, and community practitioners.
