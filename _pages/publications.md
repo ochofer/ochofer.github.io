@@ -31,6 +31,14 @@ author_profile: true
 {% endfor %}
 {% endif %}
 
+{% assign notes = site.publications | where: "category", "research-notes" | sort: "date" | reverse %}
+{% if notes.size > 0 %}
+## Research notes
+{% for post in notes %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}
+
 {% assign data = site.publications | where: "category", "datasets" | sort: "date" | reverse %}
 {% if data.size > 0 %}
 ## Datasets
