@@ -55,8 +55,8 @@ Publications and working papers
 * Co-author. "Polarising punchlines: The influence of intergroup humour on partisan affective polarisation." *Revise and resubmit, Political Studies.*
 
 **In preparation**
-* Sole-authored. "Downloading polarisation: Online information consumption and political affective polarisation in the UK." Target submission: summer 2026.
-* Sole-authored. "Good neighbours? Neighbourhood segregation and attitudes toward immigration in the UK." Target submission: summer 2026.
+* Sole-authored. "Downloading polarisation: Online information consumption and political affective polarisation in the UK."
+* Sole-authored. "Good neighbours? Neighbourhood segregation and attitudes toward immigration in the UK."
 * Lead author. "Breaking the ice: The impact of humorous communication on climate change attitudes and political participation." ESRC humour project.
 * Co-author. "'OK Boomer': The influence of humour on intergenerational hostility and polarisation." ESRC humour project.
 * Lead author. "Ecological and economic cost of terror: The impact of terrorist attacks on London commuting patterns."
