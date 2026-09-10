@@ -28,4 +28,4 @@ The data-acquisition layer is public and deliberately independent of any test: [
 
 Each project publishes its code in a public repository as its write-up goes up, so the analysis can be run rather than taken on trust.
 
-For written analysis aimed at decision-makers rather than academic readers, see the two DEMETRA policy briefs under [Publications](/publications/).
+For written analysis aimed at decision-makers, see the two DEMETRA policy briefs under [Publications](/publications/).
