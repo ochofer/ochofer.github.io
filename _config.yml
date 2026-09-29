@@ -253,7 +253,7 @@ defaults:
       share: false
       comments: false
   # _talks
-    - scope:
+  - scope:
       path: ""
       type: talks
     values:
