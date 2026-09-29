@@ -26,6 +26,16 @@ The hard part was never the question, it was the join. Which company owns which 
 
 The data-acquisition layer is public and deliberately independent of any test: [github.com/ochofer/paper1-hazard-exposure-data](https://github.com/ochofer/paper1-hazard-exposure-data){: target="_blank"}. It was built to be reusable by whatever the analysis turned out to be, which is why setting that test aside required no change to it at all.
 
-Each project publishes its code in a public repository as its write-up goes up, so the analysis can be run rather than taken on trust.
+## Portfolio construction
+
+**Optimal versus naive diversification.** Every allocator meets the same question sooner or later: is it worth optimising a portfolio, or does splitting the money equally do as well? DeMiguel, Garlappi and Uppal (2009) tested a range of optimising rules against equal weights on real data and found that, out of sample, none of them reliably won. The error in estimating expected returns and covariances cost more than optimising gained.
+
+I am replicating their comparison on the four of their datasets that come from Ken French's data library, with the tolerances the replication has to meet written down before any strategy code ran. The replication table is built, and the extension has not started.
+
+The extension puts their question to a mandate closer to what an asset manager runs: a long-only portfolio that has to stay close to its benchmark under a weight bound, a turnover cap and an industry tilt. It asks whether the choice of covariance estimator still matters once those constraints bind, and what each constraint costs in tracking error.
+
+The code goes up notebook by notebook at [github.com/ochofer/optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification){: target="_blank"}.
+
+Each project publishes its code in a public repository as its write-up goes up, so the analysis can be replicated.
 
 For written analysis aimed at decision-makers, see the two DEMETRA policy briefs under [Publications](/publications/).
