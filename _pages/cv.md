@@ -19,7 +19,7 @@ Education
   * Supervisors: [Prof. Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove){: target="_blank"} and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr){: target="_blank"}.
 * MSc in Management, Ca' Foscari University of Venice, 2020
   * 110/110 cum laude (GPA 29.5/30).
-* BSc in Business with Computer Science, Technical University of Munich (TUM), 2018
+* BSc in Management & Technology (Computer Science), Technical University of Munich (TUM), 2018
 
 Current position
 ======
@@ -47,7 +47,7 @@ Visiting positions
 ======
 * University of Amsterdam (2024)
 * King's College London (2024)
-* University of Gothenburg (2023), EUTOPIA Visiting PhD
+* University of Gothenburg (2022), EUTOPIA Visiting PhD
 
 Publications and working papers
 ======
