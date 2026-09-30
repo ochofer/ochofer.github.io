@@ -28,7 +28,7 @@ The data-acquisition layer is public and deliberately independent of any test: [
 
 ## Portfolio construction
 
-**Optimal versus naive diversification.** Every allocator meets the same question sooner or later: is it worth optimising a portfolio, or does splitting the money equally do as well? DeMiguel, Garlappi and Uppal (2009) tested a range of optimising rules against equal weights on real data and found that, out of sample, none of them reliably won. The error in estimating expected returns and covariances cost more than optimising gained.
+**Optimal versus naive diversification.** Every allocator meets the same question sooner or later: is it worth optimising a portfolio, or does naive 1/N, which splits the money equally across assets, do as well? DeMiguel, Garlappi and Uppal (2009) tested a range of optimising rules against naive 1/N on real data and found that, out of sample, none of them reliably won. The error in estimating expected returns and covariances cost more than optimising gained.
 
 I am replicating their comparison on the four of their datasets that come from Ken French's data library, with the tolerances the replication has to meet written down before any strategy code ran. The replication table is built, and the extension has not started.
 
