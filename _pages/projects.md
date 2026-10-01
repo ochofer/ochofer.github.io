@@ -30,9 +30,9 @@ The data-acquisition layer is public and deliberately independent of any test: [
 
 **Optimal versus naive diversification.** Every allocator meets the same question sooner or later: is it worth optimising a portfolio, or does naive 1/N, which splits the money equally across assets, do as well? DeMiguel, Garlappi and Uppal (2009) tested a range of optimising rules against naive 1/N on real data and found that, out of sample, none of them reliably won. The error in estimating expected returns and covariances cost more than optimising gained.
 
-I am replicating their comparison on the four of their datasets that come from Ken French's data library, with the tolerances the replication has to meet written down before any strategy code ran. The replication table is built, and the extension has not started.
+I replicated their comparison on the four of their datasets that come from Ken French's data library, with the tolerances the replication had to meet written down before any strategy code ran, and reran their simulation. I then ran the comparison forward to 2026: in the 261 months since the paper, no optimising rule beat naive 1/N significantly. Two Monte Carlo simulations of my own show that their conclusion survives fat-tailed returns and volatility that changes over time. The second also points to the next study: scaling the whole position with current volatility mattered more than knowing the covariances exactly.
 
-The extension puts their question to a mandate closer to what an asset manager runs: a long-only portfolio that has to stay close to its benchmark under a weight bound, a turnover cap and an industry tilt. It asks whether the choice of covariance estimator still matters once those constraints bind, and what each constraint costs in tracking error.
+The extension puts their question to a mandate closer to what an asset manager runs: a long-only portfolio that has to stay close to its benchmark under a weight bound, a turnover cap and an industry tilt. It asks whether the choice of covariance estimator still matters once those constraints bind, and what each constraint costs in tracking error. That part has not started.
 
 The code goes up notebook by notebook at [github.com/ochofer/optimal-vs-naive-diversification](https://github.com/ochofer/optimal-vs-naive-diversification){: target="_blank"}.
 
