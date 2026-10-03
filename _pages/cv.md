@@ -52,14 +52,14 @@ Visiting positions
 Publications and working papers
 ======
 **Refereed journal articles**
-* Co-author. "Polarising punchlines: The influence of intergroup humour on partisan affective polarisation." *Revise and resubmit, Political Studies.*
+* Co-author. "Polarising punchlines: The influence of intergroup humour on partisan affective polarisation." *Forthcoming, Political Studies.*
 
 **In preparation**
-* Sole-authored. "Downloading polarisation: Online information consumption and political affective polarisation in the UK."
-* Sole-authored. "Good neighbours? Neighbourhood segregation and attitudes toward immigration in the UK."
-* Lead author. "Breaking the ice: The impact of humorous communication on climate change attitudes and political participation." ESRC humour project.
+* Sole-authored. "No larger than television: online political attention and partisan affect in Britain, 2015-2024."
+* Sole-authored. "Where migrants live and what their neighbours think: composition, segregation and a decade of measured neighbourhood change in England and Wales."
+* Lead author. "Not that funny: a preregistered test of climate memes and political participation." ESRC humour project.
 * Co-author. "'OK Boomer': The influence of humour on intergenerational hostility and polarisation." ESRC humour project.
-* Lead author. "Ecological and economic cost of terror: The impact of terrorist attacks on London commuting patterns."
+* Lead author. "Resilient ridership: the local and short-lived footprint of terrorist attacks on the London Underground."
 
 **Policy briefs**
 * Sole author. "Citizens as Partners in Food System Transformation: Scaling Deliberative Democracy for Sustainable Food Systems." [DEMETRA Policy Brief No. 1](https://www.qmul.ac.uk/demetra/media/demetra/outputs/DEMETRA_PolicyBrief_No1_EN_v1.1.pdf){: target="_blank"}, Horizon Europe DEMETRA project, 2026. [https://doi.org/10.5281/zenodo.22541483](https://doi.org/10.5281/zenodo.22541483){: target="_blank"}
