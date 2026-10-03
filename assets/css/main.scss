@@ -39,3 +39,136 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==========================================================================
+   Carlo Hofer: house style, October 2026
+   Navy and ivory, EB Garamond for names and headings, to match the
+   LinkedIn cover. Body text stays in the system sans for legibility.
+   ========================================================================== */
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("../fonts/EBGaramond-var-latin.woff2") format("woff2");
+  font-weight: 400 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+$ch-navy: #16213a;
+$ch-navy-deep: #121a2c;
+$ch-ink: #262b33;
+$ch-muted: #5d6470;
+$ch-ivory: #ece6d9;
+$ch-rule: #e4e0d7;
+$ch-link: #1f3a60;
+$ch-display: "EB Garamond", Garamond, Georgia, serif;
+
+body { color: $ch-ink; }
+
+/* masthead: a navy band with the name set like the cover */
+.masthead {
+  background: linear-gradient(90deg, $ch-navy-deep 0%, #172238 60%, #1a263b 100%);
+  border-bottom: 0;
+}
+.greedy-nav { background: transparent; }
+.greedy-nav a,
+.greedy-nav a:visited {
+  color: rgba(236, 230, 217, 0.78);
+  font-size: 0.95em;
+  letter-spacing: 0.02em;
+}
+.greedy-nav a:hover { color: $ch-ivory; }
+.greedy-nav .visible-links a:before { background: $ch-ivory; }
+.masthead__menu-item--lg a,
+.masthead__menu-item--lg a:visited {
+  font-family: $ch-display;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  color: $ch-ivory;
+  font-size: 1.05em;
+}
+.greedy-nav button { background-color: transparent; }
+.greedy-nav button .navicon,
+.greedy-nav button .navicon:before,
+.greedy-nav button .navicon:after { background: $ch-ivory; }
+.greedy-nav .hidden-links { background: #fff; border-color: $ch-rule; }
+.greedy-nav .hidden-links a,
+.greedy-nav .hidden-links a:visited { color: $ch-navy; }
+.greedy-nav .hidden-links:before { border-color: $ch-rule transparent; }
+.greedy-nav .hidden-links:after { border-color: #fff transparent; }
+
+/* headings and names */
+h1, h2, h3, h4,
+.page__title,
+.author__name,
+.archive__item-title {
+  font-family: $ch-display;
+  color: $ch-navy;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+.page__title { font-size: 2.35em; line-height: 1.15; }
+.page__content h2,
+.archive h2 {
+  font-size: 1.65em;
+  border-bottom: 1px solid $ch-rule;
+  padding-bottom: 0.3em;
+}
+.page__content h3,
+.archive h3 { font-size: 1.3em; }
+.author__name { font-size: 1.35em; }
+.author__bio { color: $ch-muted; }
+
+/* links: navy, quiet underline */
+a,
+a:visited {
+  color: $ch-link;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  text-decoration-color: rgba(31, 58, 96, 0.35);
+}
+a:hover {
+  color: $ch-navy-deep;
+  text-decoration-color: currentColor;
+}
+.archive__item-title a,
+.archive__item-title a:visited {
+  color: $ch-navy;
+  text-decoration: none;
+}
+.archive__item-title a:hover { text-decoration: underline; }
+.archive__item-title { font-size: 1.4em; line-height: 1.25; }
+.archive__item-excerpt { color: $ch-muted; }
+
+/* sidebar icons in one colour */
+.author__urls a,
+.author__urls a:visited { color: $ch-ink; text-decoration: none; }
+.author__urls .fa, .author__urls .fas, .author__urls .fab, .author__urls .ai,
+.author__urls i { color: $ch-navy !important; }
+.btn--inverse { color: $ch-navy !important; border-color: $ch-navy !important; }
+
+/* a comfortable line length on the wide archive pages */
+.archive > p,
+.archive > ul,
+.archive > ol,
+.archive > h2,
+.archive > h3,
+.archive .list__item,
+.archive > div { max-width: 46rem; }
+
+/* footer */
+.page__footer { background: #f7f5f0; color: $ch-muted; border-top: 1px solid $ch-rule; }
+.page__footer a, .page__footer a:visited { color: $ch-muted; }
+
+/* the sidebar and list items override the heading rules above */
+.sidebar .author__name {
+  font-family: $ch-display;
+  font-weight: 500;
+  color: $ch-navy;
+}
+.archive h2.archive__item-title {
+  font-size: 1.35em;
+  border-bottom: 0;
+  padding-bottom: 0;
+}
