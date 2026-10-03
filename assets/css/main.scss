@@ -172,3 +172,17 @@ a:hover {
   border-bottom: 0;
   padding-bottom: 0;
 }
+/* second pass, October 2026: the last template colours, and two
+   template features the site does not use */
+.btn--info,
+.btn--info:visited {
+  background-color: $ch-navy;
+  color: $ch-ivory !important;
+  text-decoration: none !important;
+}
+.btn--info:hover {
+  background-color: $ch-navy-deep;
+  color: #fff !important;
+}
+.page__share,
+.pagination { display: none; }
