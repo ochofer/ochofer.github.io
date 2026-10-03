@@ -1,11 +1,11 @@
 ---
-title: "Downloading polarisation: Online information consumption and political affective polarisation in the UK"
+title: "No larger than television: online political attention and partisan affect in Britain, 2015-2024"
 collection: publications
 category: working-papers
 permalink: /publication/downloading-polarisation
-excerpt: 'How online information consumption relates to political affective polarisation, using BES panel data and an instrumental-variables design.'
+excerpt: 'How online political attention relates to partisan affect within the same people over time, using 15 waves of British Election Study panel data, 2015 to 2024.'
 date: 2026-06-02
 venue: 'Working paper (sole-authored)'
-citation: 'Hofer, C. "Downloading polarisation: Online information consumption and political affective polarisation in the UK." Working paper.'
+citation: 'Hofer, C. "No larger than television: online political attention and partisan affect in Britain, 2015-2024." Working paper.'
 ---
 Sole-authored PhD paper.
