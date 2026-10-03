@@ -3,6 +3,7 @@ title: "What a vintage difference measures"
 collection: publications
 category: research-notes
 permalink: /publication/vintage-difference-measures
+og_image: og-note.png
 excerpt: 'A hand check of 19 apparent ownership changes across two releases of the same asset-level database: twelve had no corporate event behind them, and the six that were real arrived between 12 and 1,674 days late.'
 date: 2026-09-09
 venue: 'Self-published research note'
