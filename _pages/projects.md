@@ -3,7 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-og_image: og-projects.png
+og_image: og-projects.png?v=20261004
 og_title: "Quantitative investment projects: public data, public code"
 description: "An ownership graph of 328 listed companies holding 5,115 tracked assets, public with its code. I checked 19 apparent ownership changes across two database releases by hand. Twelve had no corporate event behind them."
 ---
