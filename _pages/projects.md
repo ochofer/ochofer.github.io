@@ -3,14 +3,14 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-og_image: og-projects.png?v=20261009
-og_title: "Quantitative investment projects: public data, public code"
-description: "Self-directed research on quantitative questions in financial markets, using public data. Each write-up states the question, the data, the method and the result, and links to the code."
+og_image: og-projects.png?v=20261009b
+og_title: "Questions portfolio managers face, worked through on public data"
+description: "Research on questions that portfolio managers meet in practice. Each project is specified in writing before it runs, and the code behind every result is public."
 ---
 
 {% include base_path %}
 
-Alongside my other academic research, I also work on quantitative questions in financial markets. These are self-directed research exercises using public data. Each write-up states the question, the data, the method, and the result, including where the result was null, and links to the code so the analysis can be reproduced.
+Alongside my other academic research, I also work on quantitative questions in financial markets, using public data. Each project is specified in writing before it runs, and its write-up states the question, the data, the method, and the result, including where the result was null, and links to the code so the analysis can be reproduced.
 
 <div class="pcards">
 <div class="pcard">
