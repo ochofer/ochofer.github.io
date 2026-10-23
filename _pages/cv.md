@@ -70,7 +70,7 @@ Publications and working papers
 
 Selected presentations
 ======
-* "Not that funny…" - MPSA Annual Conference
+* "Not that funny…" - MPSA Annual Conference, Chicago (2024); PSA Annual Conference, Glasgow (2024); Politics and Society Workshop, QMUL (2026).
 * "Media consumption and affective polarisation" - SISP, Genoa (2023); EPOP, Newcastle (2022); ECPR, Innsbruck (2022).
 * "Segregation and anti-immigration attitudes" - SISP, Genoa (2023); EPOP, Southampton (2023).
 
