@@ -1,5 +1,5 @@
 ---
-title: "Breaking the ice: The impact of humorous communication on climate change attitudes and political participation"
+title: "Not that funny: a preregistered test of climate memes and political participation"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2026-pol-soc-workshop
