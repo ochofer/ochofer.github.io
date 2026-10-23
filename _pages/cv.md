@@ -52,7 +52,7 @@ Visiting positions
 Publications and working papers
 ======
 **Refereed journal articles**
-* Co-author. "Polarising punchlines: The influence of intergroup humour on partisan affective polarisation." *Forthcoming, Political Studies.*
+* Sleiman, Y., Grasso, M., Pattie, C., Serra, L., & Hofer, C. (2026). "Polarising punchlines: The influence of intergroup humour on affective political polarisation." *Political Studies*, advance online publication. [https://doi.org/10.1177/00323217261496123](https://doi.org/10.1177/00323217261496123){: target="_blank"}
 
 **In preparation**
 * Sole-authored. "No larger than television: online political attention and partisan affect in Britain, 2015-2024."
@@ -70,7 +70,7 @@ Publications and working papers
 
 Selected presentations
 ======
-* "Breaking the ice…" - MPSA Annual Conference, Chicago (2024); PSA Annual Conference, Glasgow (2024); Politics and Society Workshop, QMUL (2026).
+* "Not that funny…" - MPSA Annual Conference
 * "Media consumption and affective polarisation" - SISP, Genoa (2023); EPOP, Newcastle (2022); ECPR, Innsbruck (2022).
 * "Segregation and anti-immigration attitudes" - SISP, Genoa (2023); EPOP, Southampton (2023).
 
