@@ -32,12 +32,11 @@ Alongside my other academic research, I also work on quantitative questions in f
 </div>
 </div>
 <div class="pcard">
-<a class="pcard__img" href="/projects/rules-based-portfolio/"><img src="/images/thumb-rules-based-portfolio.png?v=20261105b" alt="Worst fall by equity weight from 40/60 to 100/0, rising to the right, with the 35 per cent limit and 70/30 the largest split within it" width="240" height="150"></a>
+<a class="pcard__img" href="/projects/rules-based-portfolio/"><img src="/images/thumb-rules-based-portfolio.png?v=20261105b" alt="Worst fall by equity weight under the band rule, from 40/60 to 100/0, with the 35 per cent limit and 70/30 the largest split within it. A test on index history, not a record." width="240" height="150"></a>
 <div class="pcard__body">
 <p class="pcard__kicker">Asset allocation</p>
 <p class="pcard__title"><a href="/projects/rules-based-portfolio/">Rules-based portfolio</a></p>
 <p class="pcard__text">Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.</p>
-<p class="pcard__note">Worst fall by equity weight under the band rule, monthly euro returns, February 1999 to December 2025. A test on index history, not a record.<br>Source: <a href="https://github.com/ochofer/rules-based-portfolio/blob/2422ce7/mandate/allocation_check_results.csv" target="_blank" rel="noopener"><code>mandate/allocation_check_results.csv</code>, commit 2422ce7</a></p>
 <p class="pcard__links"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/rules-based-portfolio/" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/rules-based-portfolio" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
