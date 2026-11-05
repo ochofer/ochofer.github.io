@@ -202,8 +202,6 @@ a:hover {
 .pcard__title a { color: $ch-navy; text-decoration: none; }
 .pcard__title a:hover { text-decoration: underline; }
 .pcard__text { color: $ch-muted; font-size: .86em; line-height: 1.5; }
-.pcard__note { color: $ch-muted; font-size: .78em; line-height: 1.45; }
-.pcard__note code { font-size: 1em; background: none; padding: 0; border: 0; }
 .pcard__body .pcard__links { margin-bottom: 0; }
 .pcard .btn, .plinks .btn { margin: .3rem .4rem 0 0; text-decoration: none !important; }
 @media (max-width: 640px) {
