@@ -7,7 +7,7 @@ og_image: og-project-climate-risk.png
 description: "An ownership graph linking 328 listed companies to the 5,115 tracked assets they own. Of 19 apparent ownership changes checked by hand, 12 had no transaction behind them."
 ---
 
-<p class="pback"><a href="/projects/">&larr; All projects</a> &middot; Ownership and prices</p>
+<p class="pback"><a href="/projects/">&larr; Investment research</a> &middot; Ownership and prices</p>
 
 <p class="plinks"><a class="btn btn--info btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 
