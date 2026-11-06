@@ -213,4 +213,5 @@ a:hover {
 .pfoot { margin-top: 2.5rem; padding-top: .8rem; border-top: 1px solid $ch-rule; color: $ch-muted; font-size: .85em; }
 .pback { font-size: .85em; color: $ch-muted; }
 .pback a, .pback a:visited { color: $ch-muted; }
-.notes a { overflow-wrap: anywhere; }
+.notes a, a[href*="doi.org"] { overflow-wrap: anywhere; }
+@media (max-width: 767.98px) { .pcard .btn--small, .plinks .btn--small { font-size: .75em; } }
