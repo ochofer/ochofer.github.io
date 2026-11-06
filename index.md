@@ -9,23 +9,53 @@ redirect_from:
   - /about.html
 ---
 
-Carlo Hofer is a quantitative political scientist and Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"} on deliberative policy-making for sustainable food systems, a seven-country, eleven-institution consortium running 2024–2027. He holds a PhD in Politics and International Studies from the University of Warwick (2026), an MSc in Management from Ca' Foscari University of Venice, and a BSc in Management & Technology (Computer Science) from the Technical University of Munich.
+Carlo Hofer is a quantitative researcher. His investment research takes questions that portfolio managers meet in practice and works them through on public data, with the code published. He holds a PhD in Politics and International Studies from the University of Warwick (2026) and is a Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}.
 
-His research examines how the structures that surround people - online information environments on one hand, residential neighbourhoods on the other - condition political attitudes during periods of democratic stress. He works with causal-inference designs applied to panel data and survey experiments, complemented by geospatial analysis at fine spatial scales.
+## Investment research
 
-## Doctoral research
+<div class="pcards">
+<div class="pcard">
+<div class="pcard__body">
+<p class="pcard__kicker">Portfolio construction</p>
+<p class="pcard__title"><a href="/projects/optimal-vs-naive-diversification/">Optimal versus naive diversification</a></p>
+<p class="pcard__text">Under an index-tracking mandate on French's 49 industries, five covariance estimators understate their own tracking error, by 22 to 61 per cent. The replication of DeMiguel, Garlappi and Uppal (2009) reproduces 29 of the 30 Sharpe ratios that carry a band.</p>
+<p class="pcard__links"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/optimal-vs-naive-diversification/dashboard/B-P_dashboard.html" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/optimal-vs-naive-diversification" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<div class="pcard__body">
+<p class="pcard__kicker">Ownership and prices</p>
+<p class="pcard__title"><a href="/projects/climate-risk-equity-signal/">Climate risk as an equity signal</a></p>
+<p class="pcard__text">An ownership graph linking 328 listed companies to the 5,115 tracked assets they own. Of 19 apparent ownership changes checked by hand, 12 had no transaction behind them.</p>
+<p class="pcard__links"><a class="btn btn--info btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<div class="pcard__body">
+<p class="pcard__kicker">Asset allocation</p>
+<p class="pcard__title"><a href="/projects/rules-based-portfolio/">Rules-based portfolio</a></p>
+<p class="pcard__text">Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.</p>
+<p class="pcard__links"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/rules-based-portfolio/" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/rules-based-portfolio" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+</div>
 
-Carlo's PhD, supervised by [Prof. Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove){: target="_blank"} and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr){: target="_blank"}, examined how online media environments and residential neighbourhoods shape political attitudes in the UK. Drawing on eleven waves of the British Election Study Internet Panel (over 100,000 observations), it combines within-person fixed-effects models, an instrumental-variables design, cross-lagged panel models, and fine-grained measures of neighbourhood segregation. The viva was held on 31 March 2026, with [Prof. Peter Thisted Dinesen](https://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/309060){: target="_blank"} (University of Copenhagen) and [Prof. Özlem Atikcan](https://warwick.ac.uk/fac/soc/pais/people/atikcan/){: target="_blank"} (University of Warwick) as examiners; the outcome was a pass with no corrections.
+## Academic research
+
+His academic research examines how the structures that surround people, online information environments on one hand and residential neighbourhoods on the other, condition political attitudes during periods of democratic stress. He works with causal-inference designs applied to panel data and survey experiments, complemented by geospatial analysis at fine spatial scales.
+
+Carlo's PhD, supervised by [Prof. Vincenzo Bove](https://warwick.ac.uk/fac/soc/pais/people/bove){: target="_blank"} and [Dr Andreas Murr](https://warwick.ac.uk/fac/soc/pais/people/murr){: target="_blank"}, examined how online media environments and residential neighbourhoods shape political attitudes in the UK. Drawing on eleven waves of the British Election Study Internet Panel (over 100,000 observations), it combines within-person fixed-effects models, an instrumental-variables design, cross-lagged panel models, and fine-grained measures of neighbourhood segregation. The viva was held on 31 March 2026, with [Prof. Peter Thisted Dinesen](https://politicalscience.ku.dk/staff/academic_staff/?pure=en/persons/309060){: target="_blank"} (University of Copenhagen) and [Prof. Özlem Atikcan](https://warwick.ac.uk/fac/soc/pais/people/atikcan/){: target="_blank"} (University of Warwick) as examiners, and the thesis passed with no corrections. Before the PhD, he took an MSc in Management at Ca' Foscari University of Venice and a BSc in Management & Technology (Computer Science) at the Technical University of Munich.
+
+- **Political humour (ESRC).** Co-authored projects on humorous political communication, covering climate change attitudes, intergroup affective polarisation and intergenerational hostility. The paper on intergroup humour, [Polarising punchlines](/publication/polarising-punchlines), was published in *Political Studies* in 2026.
+- **From the PhD.** Two papers in preparation: one on online political attention and partisan affect, and one on neighbourhood composition, segregation and attitudes to immigration.
+- **DEMETRA (Horizon Europe).** A seven-country, eleven-institution consortium on deliberative policy-making for sustainable food systems, running from 2024 to 2027. He coordinates across the consortium and wrote its first two [policy briefs](/publications/), published in 2026.
 
 ## Research interests
 
-Affective polarisation · Immigration attitudes · Media exposure and political behaviour · Residential segregation and contextual effects · Deliberative democracy · Causal inference with panel data · Survey experiments · Geospatial methods · Climate change attitudes · Political humour · Measurement error and data provenance · Asset-level ownership data
+**Finance.** Portfolio construction · Risk forecasting · Asset allocation · Climate risk · Asset-level ownership data · Measurement error and data provenance
 
-## Current research
+**Political science.** Affective polarisation · Immigration attitudes · Media exposure and political behaviour · Residential segregation and contextual effects · Deliberative democracy · Climate change attitudes · Political humour
 
-- **DEMETRA (Horizon Europe).** Comparative study of deliberative participatory processes on sustainable food systems across seven European countries, with responsibilities spanning consortium-wide coordination, the project's ethics governance, qualitative field research, and the project's policy briefs. The first two, [Citizens as Partners in Food System Transformation](/publication/demetra-policy-brief-1) and [Beyond Pilots: Building Durable Governance Frameworks for Urban Food Systems](/publication/demetra-policy-brief-2), were published in 2026.
-- **From the PhD.** Two papers in preparation: one on online political attention and partisan affect, and one on neighbourhood composition, segregation and attitudes to immigration.
-- **Political humour (ESRC).** A series of co-authored projects on humorous political communication: climate change attitudes, intergroup affective polarisation, and intergenerational hostility.
-- **Quantitative investment research.** An ownership graph linking listed companies to the physical assets they own, built from public data and published with its code before any analysis, and a measurement note on how the source database changes between its own releases. Write-ups and code under [Projects](/projects/).
+**Methods.** Causal inference with panel data · Survey experiments · Geospatial methods · Portfolio optimisation and simulation
 
-For a full list of work, see [Publications](/publications/), [Projects](/projects/) and [CV](/cv/).
+For a full list of work, see [Investment research](/projects/), [Publications](/publications/) and the [Academic CV](/cv/).
