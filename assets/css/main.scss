@@ -160,6 +160,7 @@ a:hover {
 /* footer */
 .page__footer { background: #f5f5f5; color: $ch-muted; border-top: 1px solid $ch-rule; }
 .page__footer a, .page__footer a:visited { color: $ch-muted; }
+.page__footer-copyright { font-size: .75em; }
 
 /* the sidebar and list items override the heading rules above */
 .sidebar .author__name {
@@ -197,7 +198,7 @@ a:hover {
 .pcard__img img { width: 240px; height: 150px; border-radius: 4px; border: 1px solid $ch-rule; }
 .pcard__body { flex: 1; min-width: 0; }
 .pcard__body p { margin: 0 0 .4rem; }
-.pcard .pcard__kicker { font-size: .68em; letter-spacing: .12em; text-transform: uppercase; color: $ch-muted; font-weight: 600; }
+.pcard .pcard__kicker { font-size: .75em; letter-spacing: .12em; text-transform: uppercase; color: $ch-muted; font-weight: 600; }
 .pcard .pcard__title { font-family: $ch-display; font-size: 1.32em; line-height: 1.2; }
 .pcard__title a { color: $ch-navy; text-decoration: none; }
 .pcard__title a:hover { text-decoration: underline; }
