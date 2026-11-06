@@ -7,7 +7,7 @@ og_image: og-project-rules-based-portfolio.png?v=20261105
 description: "Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks."
 ---
 
-<p class="pback"><a href="/projects/">&larr; All projects</a> &middot; Asset allocation</p>
+<p class="pback"><a href="/projects/">&larr; Investment research</a> &middot; Asset allocation</p>
 
 <p class="plinks"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/rules-based-portfolio/" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/rules-based-portfolio" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 
@@ -25,8 +25,8 @@ The portfolio runs no optimiser, holds no view, carries no signal and is measure
 
 <ol class="notes">
 <li id="note-1">DeMiguel, V., Garlappi, L. and Uppal, R. (2009). Optimal versus naive diversification: how inefficient is the 1/N portfolio strategy? <i>Review of Financial Studies</i> 22(5), 1915 to 1953. <a href="https://doi.org/10.1093/rfs/hhm075">https://doi.org/10.1093/rfs/hhm075</a></li>
-<li id="note-2">Optimal versus naive diversification: <a href="https://www.carlohofer.com/projects/optimal-vs-naive-diversification/">https://www.carlohofer.com/projects/optimal-vs-naive-diversification/</a></li>
-<li id="note-3">The section “What the portfolio does not do, and why” on the dashboard: <a href="https://www.carlohofer.com/rules-based-portfolio/#method-not-done">https://www.carlohofer.com/rules-based-portfolio/#method-not-done</a></li>
+<li id="note-2"><a href="https://www.carlohofer.com/projects/optimal-vs-naive-diversification/">Optimal versus naive diversification</a>, the project page.</li>
+<li id="note-3">The section <a href="https://www.carlohofer.com/rules-based-portfolio/#method-not-done">“What the portfolio does not do, and why”</a> on the dashboard.</li>
 </ol>
 
 ## Other projects
