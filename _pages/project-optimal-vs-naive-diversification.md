@@ -17,7 +17,7 @@ I replicated their comparison on four of the five datasets the paper takes from 
 
 I then asked their question of a long-only index-tracking mandate on French's 49 industries from 1979 to 2026. Each month, an optimiser I wrote in cvxpy finds the portfolio closest to a cap-weighted benchmark in ex-ante tracking error, under an active weight bound of 2 percentage points, a turnover cap of 2 per cent a month, a 50 per cent tilt against Coal, Oil and Utilities, the exclusion of tobacco and weapons, and a beta of one. The forecast comes from one of five covariance estimators: the sample covariance, Ledoit-Wolf shrinkage, a six-factor model and a principal-component model on three years of daily returns, and the sample covariance of 120 monthly returns. Under the mandate the estimators realise 84.7 to 95.8 basis points a year of tracking error, so the choice still matters by about a tenth, with the daily sample covariance and shrinkage the best. Every estimator understates its own tracking error, by 22 to 61 per cent. The tilt is associated with an active return of +2 to +7 basis points a year against a standard error of 12 to 13, which a factor attribution splits into factor exposures that cost 9 to 13 basis points and industry returns that paid 12 to 20.
 
-Thirteen notebooks, every expectation written before its code, French's data downloaded at run time, 92 tests and a ten-page note.
+Thirteen notebooks, every expectation written before its code, French's data downloaded at run time, 92 tests and an eleven-page note.
 
 ## Notes
 
