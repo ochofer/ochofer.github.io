@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/Hofer_Academic_CV.pdf){: .btn .btn--info target="_blank"}
+[Download the academic CV (PDF)](/files/Hofer_Academic_CV.pdf){: .btn .btn--info target="_blank"}
 
 Education
 ======
@@ -67,6 +67,9 @@ Publications and working papers
 
 **Data deposits**
 * Four datasets from the ESRC humour project deposited on the UK Data Service ReShare repository, listed with DOIs under [Publications](/publications/).
+
+**Research notes**
+* Hofer, C. (2026). "What a vintage difference measures: hand verification of ownership changes in a public asset-level database." Self-published research note, with code and data released before analysis. [Code and data on GitHub](https://github.com/ochofer/paper1-hazard-exposure-data){: target="_blank"}
 
 Selected presentations
 ======
