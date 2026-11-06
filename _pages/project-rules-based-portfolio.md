@@ -19,6 +19,16 @@ The split is set by the risk limit. The mandate asks for the highest long-run gr
 
 The dashboard, rebuilt every Monday and on each cycle day, draws every figure from a committed table: the weights and the drift, the costs by source, the look-through to the countries, sectors, currencies and issuers inside both funds, the equity fund's factor loadings, and an estimate of the portfolio's volatility and one-month value at risk on index returns at the look-through weights. Two reference portfolios computed from the same contributions without costs show the implementation cost. No return is offered as evidence for the rules: with a book this size and a record of a few years, a return cannot show whether the rules are good.
 
+The portfolio runs no optimiser, holds no view, carries no signal and is measured against no index. The expected return of each sleeve cannot be estimated from the data closely enough to choose between splits, which is why the limit sets the split, a result that DeMiguel, Garlappi and Uppal established<sup id="ref-1"><a href="#note-1">1</a></sup> and the replication study on this site confirms.<sup id="ref-2"><a href="#note-2">2</a></sup> The question why the portfolio does not simply hold the S&P 500 is answered on the dashboard's Method view,<sup id="ref-3"><a href="#note-3">3</a></sup> with the allocation test rerun on the US market in euro and a running comparison, without costs, against the S&P 500 ETF the selection criteria of the rules pick: the global fund already holds the index's companies at about two thirds of its weight, and a weight on one country above its share of the world is a view the rules do not take.
+
+## Notes
+
+<ol class="notes">
+<li id="note-1">DeMiguel, V., Garlappi, L. and Uppal, R. (2009). Optimal versus naive diversification: how inefficient is the 1/N portfolio strategy? <i>Review of Financial Studies</i> 22(5), 1915 to 1953. <a href="https://doi.org/10.1093/rfs/hhm075">https://doi.org/10.1093/rfs/hhm075</a></li>
+<li id="note-2">Optimal versus naive diversification: <a href="https://www.carlohofer.com/projects/optimal-vs-naive-diversification/">https://www.carlohofer.com/projects/optimal-vs-naive-diversification/</a></li>
+<li id="note-3">The section “What the portfolio does not do, and why” on the dashboard: <a href="https://www.carlohofer.com/rules-based-portfolio/#method-not-done">https://www.carlohofer.com/rules-based-portfolio/#method-not-done</a></li>
+</ol>
+
 ## Other projects
 
 <div class="pcards">
