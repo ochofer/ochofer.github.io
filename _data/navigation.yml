@@ -3,6 +3,9 @@ main:
   - title: "Investment research"
     url: /projects/
 
+  - title: "Portfolio"
+    url: /projects/rules-based-portfolio/
+
   - title: "Publications"
     url: /publications/
 
