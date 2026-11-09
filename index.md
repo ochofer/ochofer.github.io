@@ -30,6 +30,11 @@ Carlo Hofer is a quantitative researcher. His investment research takes question
 <p class="pcard__links"><a class="btn btn--info btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
+</div>
+
+## Portfolio in practice
+
+<div class="pcards">
 <div class="pcard">
 <div class="pcard__body">
 <p class="pcard__kicker">Asset allocation</p>
