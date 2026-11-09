@@ -1,3 +1,17 @@
 <!-- start custom analytics snippet -->
-
+<script data-goatcounter="https://carlohofer.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest ? e.target.closest('a[href]') : null;
+    if (!a || !window.goatcounter || !window.goatcounter.count) return;
+    var u = new URL(a.href, location.href);
+    var pdf = /\.pdf$/i.test(u.pathname);
+    if (!pdf && u.hostname === location.hostname) return;
+    window.goatcounter.count({
+      path: pdf ? 'PDF ' + u.hostname + u.pathname : 'Link ' + (u.hostname || u.protocol) + u.pathname,
+      title: a.textContent.trim(),
+      event: true
+    });
+  });
+</script>
 <!-- end custom analytics snippet -->
