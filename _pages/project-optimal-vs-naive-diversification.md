@@ -42,6 +42,14 @@ Version 2 turns the question round and asks what a budget of forecast tracking e
 </div>
 <div class="pcard">
 <div class="pcard__body">
+<p class="pcard__kicker">Signal evaluation</p>
+<p class="pcard__title"><a href="/projects/volatility-managed-portfolios/">Volatility-managed portfolios: a replication</a></p>
+<p class="pcard__text">A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet.</p>
+<p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/volatility-managed-portfolios" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<div class="pcard__body">
 <p class="pcard__kicker">Asset allocation</p>
 <p class="pcard__title"><a href="/projects/rules-based-portfolio/">Rules-based portfolio</a></p>
 <p class="pcard__text">Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.</p>
