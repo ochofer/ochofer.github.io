@@ -4,7 +4,7 @@ title: "Volatility-managed portfolios: a replication, the real-time critique, an
 permalink: /projects/volatility-managed-portfolios/
 author_profile: true
 og_image: og-project-volatility-managed-portfolios.png?v=20261111c
-description: "A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet."
+description: "Volatility estimation and position sizing on Ken French's equity factors, backtested out of sample and without look-ahead, replicating Moreira and Muir (2017) and Cederburg, O'Doherty, Wang and Yan (2020). In build: the data and the signal are in place, and nothing in it is a result yet."
 ---
 
 <p class="pback"><a href="/projects/">&larr; Investment research</a> &middot; Signal evaluation</p>
