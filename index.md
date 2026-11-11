@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Carlo Hofer is a quantitative researcher. His investment research takes questions that portfolio managers meet in practice and works them through on public data, with the code published. He holds a PhD in Politics and International Studies from the University of Warwick (2026) and is a Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}.
+Carlo Hofer is a quantitative researcher. His investment research takes questions that portfolio managers meet in practice and works them through on public and licensed data, with the code published. He holds a PhD in Politics and International Studies from the University of Warwick (2026) and is a Postdoctoral Research Associate at Queen Mary University of London, working with Prof. Maria Grasso on the Horizon Europe project [DEMETRA](https://www.qmul.ac.uk/demetra/){: target="_blank"}.
 
 ## Investment research
 
@@ -33,9 +33,17 @@ Carlo Hofer is a quantitative researcher. His investment research takes question
 <div class="pcard">
 <div class="pcard__body">
 <p class="pcard__kicker">Signal evaluation</p>
-<p class="pcard__title"><a href="/projects/volatility-managed-portfolios/">Volatility-managed portfolios: a replication</a></p>
+<p class="pcard__title"><a href="/projects/volatility-managed-portfolios/">Volatility-managed portfolios: a replication, the real-time critique, and the months after the sample</a></p>
 <p class="pcard__text">A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet.</p>
 <p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/volatility-managed-portfolios" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<div class="pcard__body">
+<p class="pcard__kicker">Stock-level index tracking</p>
+<p class="pcard__title"><a href="/projects/stock-level-tracking/">A point-in-time benchmark, a long-only mandate, and its performance attribution by sector</a></p>
+<p class="pcard__text">A point-in-time S&amp;P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: the data layer is in place and checked, and nothing of the mandate is a result yet.</p>
+<p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/stock-level-tracking" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
 </div>
