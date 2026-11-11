@@ -4,14 +4,14 @@ title: "Rules-based portfolio"
 permalink: /projects/rules-based-portfolio/
 author_profile: true
 og_image: og-project-rules-based-portfolio.png?v=20261111c
-description: "Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks."
+description: "Runs a real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks."
 ---
 
 <p class="pback">Portfolio in practice &middot; Asset allocation</p>
 
 <p class="plinks"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/rules-based-portfolio/" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--info btn--small" href="https://www.carlohofer.com/rules-based-portfolio/guide/guide.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Guide to the dashboard (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/rules-based-portfolio" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 
-Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
+Runs a real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks, look-through exposure and ex-ante risk on a public dashboard.
 
 The portfolio holds a global equity ETF and a euro government bond ETF. Its mandate, a written statement of what the portfolio is for, and the ten rules that say how it is run were written down on 7 October 2026, together with the choice of the two funds, before the first purchase on 8 October. They were saved that day as a dated version in the public repository, so any later change to them is visible. On the fifth of each month, the cycle day, a program checks the rules against the positions, proposes the orders the rules call for and writes a report before any order is placed. Every departure from the rules is kept in a register. A monthly note follows each cycle day, and a quarterly report follows each quarter, the first in January 2027.
 
