@@ -10,7 +10,7 @@ description: "Research on questions that portfolio managers meet in practice. Ea
 
 {% include base_path %}
 
-Each project takes a question that portfolio managers meet in practice and works it through on public data. It is specified in writing before it runs, and its write-up states the question, the data, the method and the result, including where the result was null, with links to the code so the analysis can be reproduced.
+Each project takes a question that portfolio managers meet in practice and works it through on public data, or on licensed data where the question needs them. It is specified in writing before it runs, and its write-up states the question, the data, the method and the result, including where the result was null, with links to the code so the analysis can be reproduced.
 
 <div class="pcards">
 <div class="pcard">
@@ -35,9 +35,18 @@ Each project takes a question that portfolio managers meet in practice and works
 <a class="pcard__img" href="/projects/volatility-managed-portfolios/"><img src="/images/thumb-volatility-managed-portfolios.png" alt="Monthly realised variance of the market factor, 1926 to 2026" width="240" height="150"></a>
 <div class="pcard__body">
 <p class="pcard__kicker">Signal evaluation</p>
-<p class="pcard__title"><a href="/projects/volatility-managed-portfolios/">Volatility-managed portfolios: a replication</a></p>
+<p class="pcard__title"><a href="/projects/volatility-managed-portfolios/">Volatility-managed portfolios: a replication, the real-time critique, and the months after the sample</a></p>
 <p class="pcard__text">A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet.</p>
 <p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/volatility-managed-portfolios" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<a class="pcard__img" href="/projects/stock-level-tracking/"><img src="/images/thumb-stock-level-tracking.png" alt="Tracking error of the rebuilt universe against CRSP's own return, by year, 1926 to 2024" width="240" height="150"></a>
+<div class="pcard__body">
+<p class="pcard__kicker">Stock-level index tracking</p>
+<p class="pcard__title"><a href="/projects/stock-level-tracking/">A point-in-time benchmark, a long-only mandate, and its performance attribution by sector</a></p>
+<p class="pcard__text">A point-in-time S&amp;P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: the data layer is in place and checked, and nothing of the mandate is a result yet.</p>
+<p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/stock-level-tracking" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
 </div>

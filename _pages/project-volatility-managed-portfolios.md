@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Volatility-managed portfolios: a replication"
+title: "Volatility-managed portfolios: a replication, the real-time critique, and the months after the sample"
 permalink: /projects/volatility-managed-portfolios/
 author_profile: true
-og_image: og-project-volatility-managed-portfolios.png
+og_image: og-project-volatility-managed-portfolios.png?v=20261111
 description: "A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet."
 ---
 
@@ -44,6 +44,14 @@ The code is public on GitHub<sup id="ref-3"><a href="#note-3">3</a></sup> and go
 <p class="pcard__title"><a href="/projects/climate-risk-equity-signal/">Climate risk as an equity signal</a></p>
 <p class="pcard__text">An ownership graph linking 328 listed companies to the 5,115 tracked assets they own. Of 19 apparent ownership changes checked by hand, 12 had no transaction behind them.</p>
 <p class="pcard__links"><a class="btn btn--info btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.2/what-a-vintage-difference-measures.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
+</div>
+</div>
+<div class="pcard">
+<div class="pcard__body">
+<p class="pcard__kicker">Stock-level index tracking</p>
+<p class="pcard__title"><a href="/projects/stock-level-tracking/">A point-in-time benchmark, a long-only mandate, and its performance attribution by sector</a></p>
+<p class="pcard__text">A point-in-time S&amp;P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: the data layer is in place and checked, and nothing of the mandate is a result yet.</p>
+<p class="pcard__links"><a class="btn btn--inverse btn--small" href="https://github.com/ochofer/stock-level-tracking" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
 <div class="pcard">
