@@ -3,7 +3,7 @@ layout: single
 title: "Volatility-managed portfolios: a replication, the real-time critique, and the months after the sample"
 permalink: /projects/volatility-managed-portfolios/
 author_profile: true
-og_image: og-project-volatility-managed-portfolios.png?v=20261111b
+og_image: og-project-volatility-managed-portfolios.png?v=20261111c
 description: "A replication of Moreira and Muir's volatility-managed portfolios and of the real-time critique on Ken French's factors, then the months after the paper's sample. In build: the data and the signal are in place, and nothing in it is a result yet."
 ---
 

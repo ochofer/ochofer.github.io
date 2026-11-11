@@ -3,7 +3,7 @@ layout: single
 title: "Climate risk as an equity signal"
 permalink: /projects/climate-risk-equity-signal/
 author_profile: true
-og_image: og-project-climate-risk.png
+og_image: og-project-climate-risk.png?v=20261111c
 description: "An ownership graph linking 328 listed companies to the 5,115 tracked assets they own. Of 19 apparent ownership changes checked by hand, 12 had no transaction behind them."
 ---
 

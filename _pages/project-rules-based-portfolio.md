@@ -3,7 +3,7 @@ layout: single
 title: "Rules-based portfolio"
 permalink: /projects/rules-based-portfolio/
 author_profile: true
-og_image: og-project-rules-based-portfolio.png?v=20261105
+og_image: og-project-rules-based-portfolio.png?v=20261111c
 description: "Runs a small real-money portfolio under rules published before the first order: two UCITS ETFs at 70/30, a monthly cycle with pre-trade checks."
 ---
 

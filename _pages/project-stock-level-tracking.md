@@ -3,7 +3,7 @@ layout: single
 title: "Stock-level index tracking: a point-in-time benchmark, a long-only mandate, and its performance attribution by sector"
 permalink: /projects/stock-level-tracking/
 author_profile: true
-og_image: og-project-stock-level-tracking.png?v=20261111b
+og_image: og-project-stock-level-tracking.png?v=20261111c
 description: "A point-in-time S&P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. In build: the data layer is in place and checked, and nothing of the mandate is a result yet."
 ---
 

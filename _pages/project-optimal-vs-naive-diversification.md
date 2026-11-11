@@ -3,7 +3,7 @@ layout: single
 title: "Optimal versus naive diversification"
 permalink: /projects/optimal-vs-naive-diversification/
 author_profile: true
-og_image: og-project-optimal-vs-naive.png
+og_image: og-project-optimal-vs-naive.png?v=20261111c
 description: "Under an index-tracking mandate on French's 49 industries, five covariance estimators understate their own tracking error, by 22 to 61 per cent. The replication of DeMiguel, Garlappi and Uppal (2009) reproduces 29 of the 30 Sharpe ratios that carry a band."
 ---
 
