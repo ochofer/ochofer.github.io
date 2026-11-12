@@ -15,7 +15,7 @@ Moreira and Muir (2017)<sup id="ref-1"><a href="#note-1">1</a></sup> found that 
 
 I am replicating both on Ken French's factors. The numbers the replication has to reproduce were typed from the journals before any code that judges them, and a test re-reads them digit by digit from the papers. Every expectation the replication and the test have to meet was written down and committed before any of them ran.
 
-The study's own question is what the signal did in the months after Moreira and Muir's sample, May 2015 to August 2026, which neither paper could see. The study is in build. The data and the signal are in place. The replication, the real-time critique and the months after follow, and the results come at the last milestone with the write-up. Nothing on this page is a result.
+The study's own question is what the signal did in the months after Moreira and Muir's sample, May 2015 to August 2026, which neither paper could see. The study is in build, and its findings are stated when it is complete, with the write-up. Nothing on this page is a result.
 
 The code is public on GitHub<sup id="ref-3"><a href="#note-3">3</a></sup> and goes up milestone by milestone.
 
