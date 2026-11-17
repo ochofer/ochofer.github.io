@@ -15,9 +15,9 @@ Moreira and Muir (2017)<sup id="ref-1"><a href="#note-1">1</a></sup> found that 
 
 I replicated both on Ken French's factors. The numbers the replication has to reproduce were typed from the journals before any code that judges them, and a test re-reads them digit by digit from the papers. Every expectation the replication and the test have to meet was written down and committed before any of them ran.
 
-The study's own question is what the signal did in the months after Moreira and Muir's sample, May 2015 to August 2026, which neither paper could see. Sharpe ratio differences are tested with Ledoit and Wolf's (2008)<sup id="ref-3"><a href="#note-3">3</a></sup> bootstrap.
+The study's own question is what the signal did in the 136 months after Moreira and Muir's sample, May 2015 to August 2026. Sharpe ratio differences are tested with Ledoit and Wolf's (2008)<sup id="ref-3"><a href="#note-3">3</a></sup> bootstrap.
 
-Against this evidence the study supports a statement about the signal on French's six factors over these samples. Scaled by the inverse of last month's realised variance, a factor has a Sharpe ratio above the original's beyond its 95 per cent interval for one of six factors, momentum, and the 136 months after Moreira and Muir's sample cannot tell any difference from zero. The study holds no view on expected returns. The note states the limits in its last section.
+The study supports a statement about the signal on French's six factors over these samples. Scaled by the inverse of last month's realised variance, a factor has a Sharpe ratio above the original's beyond its 95 per cent interval for one of six factors, momentum, and the 136 months after Moreira and Muir's sample cannot tell any difference from zero. The study holds no view on expected returns. The note states the limits in its last section.
 
 The code is public on GitHub<sup id="ref-4"><a href="#note-4">4</a></sup>.
 
