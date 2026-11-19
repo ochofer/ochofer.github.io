@@ -5,12 +5,12 @@ permalink: /projects/
 author_profile: true
 og_image: og-projects.png?v=20261111
 og_title: "Investment research"
-description: "Research on questions that portfolio managers meet in practice. Each project is specified in writing before it runs, and the code behind every result is public."
+description: "Research on questions that portfolio managers meet in practice. Each project states its expectations and thresholds in its code, and the code behind every result is public."
 ---
 
 {% include base_path %}
 
-Each project takes a question that portfolio managers meet in practice and works it through on public data, or on licensed data where the question needs them. It is specified in writing before it runs, and its write-up states the question, the data, the method and the result, including where the result was null, with links to the code so the analysis can be reproduced.
+Each project takes a question that portfolio managers meet in practice and works it through on public data, or on licensed data where the question needs them. Its expectations and thresholds are stated in its code, and its write-up states the question, the data, the method and the result, including where the result was null, with links to the code so that every step can be checked.
 
 <div class="pcards">
 <div class="pcard">
