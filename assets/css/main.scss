@@ -215,3 +215,8 @@ a:hover {
 .pback a, .pback a:visited { color: $ch-muted; }
 .notes a, a[href*="doi.org"] { overflow-wrap: anywhere; }
 @media (max-width: 767.98px) { .pcard .btn--small, .plinks .btn--small { font-size: .75em; } }
+/* Project pages on a phone: the text first, the author block after it, so the result shows on the first screen (standard T1). Only the project pages carry the back line .pback. */
+@media (max-width: 767.98px) {
+  #main:has(.pback) { display: flex; flex-direction: column; }
+  #main:has(.pback) > .sidebar { order: 2; margin-top: 2em; }
+}
