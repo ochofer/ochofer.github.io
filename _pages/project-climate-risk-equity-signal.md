@@ -11,15 +11,31 @@ description: "An ownership graph linking 328 ownership entities in the US and de
 
 <p class="plinks"><a class="btn btn--info btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data/releases/download/note-v1.3/what-a-vintage-difference-measures.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/paper1-hazard-exposure-data" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 
-Companies own physical things. Power stations, pipelines, mines, cement works. Those things sit in places, and places have weather. The question was whether investors price the risk that weather damages those assets or interrupts what they produce.
+Companies own physical assets, e.g., power stations, pipelines, mines and cement works, and those assets sit in places whose weather varies. The question these data are built for is whether investors price the risk that weather damages those assets or interrupts what they produce, i.e., whether companies holding more exposed assets earn different returns once the known drivers of returns are controlled for. This project builds and audits the data for that question in two parts, the *ownership graph* and the *note*. Of 19 restatements, i.e., ownership links removed or shares revised between two releases of the data, drawn at random and checked by hand, 12 had no corporate event behind them.
 
-The hard part was never the question, it was the join. Which company owns which asset, and what that company's shares did, are recorded in different places under different identifiers, and neither contains the other. So most of the work went into building that bridge and then trying to prove it wrong. The ownership graph is built from Global Energy Monitor's free tracker. It links 328 ownership entities in the US and developed Europe, 302 of them listed companies with a price series, to 5,115 asset holdings, an asset with two owners among them counted once for each.
+The project tests no hypothesis that this risk is priced. A power calculation set the planned return test, a cross-sectional Fama-MacBeth design, aside. One return comparison was run, under a rule set in its script before the run: the spread between the fifths of the panel with the most and the least attributable fossil capacity, computed on each of two releases with ownership data from late in or after the return window, to measure whether the spread moves with the release. The note reports its result with the smallest effect the data could detect.
 
-**One return test was specified and set aside before it ran**, on a power calculation published in the repository. A second was run under a rule written in the header of its script, and the data-quality note below reports it.
+**The ownership graph.** Which company owns which asset and what that company's shares did are recorded in different sources under different identifiers, and neither holds the other's key. Built from Global Energy Monitor's free tracker, the graph links 328 ownership entities in the US and developed Europe, 302 of them listed and priceable, to 5,115 asset holdings. An ownership entity is an owner as Global Energy Monitor records it, before any matching, priceable means that its shares resolve to a tradeable listing in the price panel, and an asset owned by two of the 328 counts as two holdings. The price panel of the 302 companies and two reference series passes 16 of 16 integrity checks.
 
-**Of 19 recorded ownership changes checked by hand, 12 had no corporate event behind them.** Two releases of the same database differ on 12,717 ownership edges, and the study classes 2,543 of them as restatement, a link removed or a share revised. I drew 19 of those 2,543, in proportion to the three kinds of restatement, and looked for the transaction behind each one in exchange filings, company statements and press releases. Twelve had none. How an empty ownership share is read, a choice of mine that the data does not document, moves the rank correlation of firms' attributable coal and gas capacity between the two releases from 0.91 to 0.98 on the 171 panel firms, either side of the 0.95 the study takes as its line. The note, its code and its provenance records are public.
+**The note.** In the note, *What a vintage difference measures*, the changes between two releases, i.e., two dated files, of the ownership database are checked by hand. The two releases differ on 12,717 ownership edges, i.e., links between an owner and an asset, and 2,543 of them are classed as restatements. Of 19 restatements drawn at random, in proportion to their three kinds, and checked against exchange filings, company statements and press releases, 12 had no corporate event behind them. How an empty ownership share is read, a choice the data do not document, moves the rank correlation of firms' attributable coal and gas capacity between the two releases from 0.91 to 0.98 on the 171 panel firms, either side of the 0.95 the note takes as its line.
 
-The data-acquisition layer is public and deliberately independent of any test. It was built to be reusable by whatever the analysis turned out to be, which is why setting that test aside required no change to it at all.
+The hazard study itself is closed: the hazard measure is not built and not scheduled, and nothing in the repository depends on it. The ownership data are Global Energy Monitor's, under CC BY 4.0. The share prices are licensed and not redistributed, and the repository publishes the code that fetches them with a manifest of every file's hash. The code is public on GitHub<sup id="ref-1"><a href="#note-1">1</a></sup>.
+
+## Terms
+
+- **Restatement**: an edge removed or a share revised between two releases.
+- **Release**: one dated file of the ownership tracker, identified by its file name and hash.
+- **Ownership entity**: an owner as Global Energy Monitor records it, before any matching.
+- **Priceable**: resolved to a tradeable listing in the price panel.
+- **Asset holding**: one owner's stake in one asset, so an asset with two owners counts twice.
+- **Ownership edge**: a link between an owner and an asset in one release of the database.
+- **Rank correlation**: the correlation of two rankings of the same firms, 1 when they agree exactly.
+
+## Notes
+
+<ol class="notes">
+<li id="note-1"><a href="https://github.com/ochofer/paper1-hazard-exposure-data">paper1-hazard-exposure-data</a>, the repository on GitHub.</li>
+</ol>
 
 ## Other projects
 
@@ -28,7 +44,7 @@ The data-acquisition layer is public and deliberately independent of any test. I
 <div class="pcard__body">
 <p class="pcard__kicker">Portfolio construction</p>
 <p class="pcard__title"><a href="/projects/optimal-vs-naive-diversification/">Optimal versus naive diversification</a></p>
-<p class="pcard__text">Under an index-tracking mandate on French's 49 industries, five covariance estimators understate their own tracking error over 1979 to 2026: the realised active return is 22 to 61 per cent more volatile than forecast. The replication of DeMiguel, Garlappi and Uppal (2009) reproduces 29 of the 30 Sharpe ratios that carry a band, 26 of 27 with the value-weighted market counted once.</p>
+<p class="pcard__text">Under a long-only index-tracking mandate on French's 49 industries, 1979 to 2026, each of five covariance estimators forecasts less tracking error than its portfolio realises: the realised active return is 22 to 61 per cent more volatile than forecast. The replication of DeMiguel, Garlappi and Uppal (2009) reproduces 29 of the 30 out-of-sample Sharpe ratios within 0.03 of the published values.</p>
 <p class="pcard__links"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/optimal-vs-naive-diversification/dashboard/B-P_dashboard.html" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--info btn--small" href="https://www.carlohofer.com/optimal-vs-naive-diversification/note/B-P_note_2026-10.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/optimal-vs-naive-diversification" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
@@ -44,7 +60,7 @@ The data-acquisition layer is public and deliberately independent of any test. I
 <div class="pcard__body">
 <p class="pcard__kicker">Stock-level index tracking</p>
 <p class="pcard__title"><a href="/projects/stock-level-tracking/">A point-in-time benchmark, a long-only mandate, and its performance attribution by sector</a></p>
-<p class="pcard__text">A point-in-time S&amp;P 500 universe from CRSP and Compustat, a long-only mandate held close to its cap-weighted benchmark, and an attribution of its active return by sector. Under the mandate, simulated from 1999 to 2024, four covariance estimators realise 78.9 to 83.6 basis points a year of tracking error, and each forecast understates it: the realised active return is 48 to 85 per cent more volatile than forecast. Index changes force 11.4 per cent of the turnover on the Ledoit-Wolf estimator, and no estimator's mean active return is statistically significant at the 5 per cent level, which over these 306 months would take one of about 35 basis points a year.</p>
+<p class="pcard__text">Rebuilds the S&amp;P 500 month by month from CRSP's list of members, at a tracking error of 11.5 basis points a year against CRSP's own return of the same list, and runs a long-only index-tracking mandate on it from 1999 to 2024, with its active return attributed by sector. The portfolios realise 78.9 to 83.6 basis points a year of tracking error, and each of four covariance estimators forecasts less: the realised active return is 48 to 85 per cent more volatile than forecast. Index changes require 11.4 per cent of the turnover of the portfolio built with Ledoit-Wolf shrinkage.</p>
 <p class="pcard__links"><a class="btn btn--info btn--small" href="https://www.carlohofer.com/stock-level-tracking/dashboard/" target="_blank" rel="noopener"><i class="fas fa-chart-line" aria-hidden="true"></i> Dashboard</a> <a class="btn btn--info btn--small" href="https://www.carlohofer.com/stock-level-tracking/note/stock-level-tracking_note_2026-11.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Note (PDF)</a> <a class="btn btn--inverse btn--small" href="https://github.com/ochofer/stock-level-tracking" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i> Code on GitHub</a></p>
 </div>
 </div>
