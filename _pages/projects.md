@@ -10,7 +10,7 @@ description: "Research on questions that portfolio managers meet in practice. Ea
 
 {% include base_path %}
 
-Each project answers a question that portfolio managers meet in practice, on public data or, where the question needs them, on licensed data. Its expectations and thresholds were written into its repository before the code that tests them ran, and its code marks what was added after the results were known. Its note gives the question, the data, the method and the result, null results included, with a link to the repository that holds the code behind every figure.
+Each project answers a question that portfolio managers meet in practice, on public data or, where the question needs them, on licensed data. Its expectations and thresholds were written into its repository before the code that tests them ran, and its code marks what was added after the results were known. The note of each completed study gives the question, the data, the method and the result, null results included, with a link to the repository that holds the code behind every figure.
 
 <div class="pcards">
 <div class="pcard">
